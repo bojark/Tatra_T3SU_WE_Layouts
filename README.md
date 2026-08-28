@@ -22,7 +22,7 @@ Custom Write Everywhere layouts for my Tatra T3SU tram in Cities: Skylines II.
 
 5. Launch the game. The layouts should be applied automatically. If they are not, try refreshing the layouts through the Write Everywhere settings in the in-game menu.
 
-6. Enjoy, and feel free to say thanks!
+6. Enjoy, and feel free to [say thanks](https://buymeacoffee.com/komurka)!
 
 ## Permission
 
