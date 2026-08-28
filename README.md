@@ -2,6 +2,8 @@
 
 Custom Write Everywhere layouts for my Tatra T3SU tram in Cities: Skylines II.
 
+![Tatra T3SU front and side displays](https://github.com/bojark/Tatra_T3SU_WE_Layouts/blob/main/20260827174448_1.jpg?raw=true) ![Tatra T3SU Write Everywhere layout](https://github.com/bojark/Tatra_T3SU_WE_Layouts/blob/main/20260827174422_1.jpg?raw=true)
+
 ## Installation
 
 1. Subscribe to [Write Everywhere](https://mods.paradoxplaza.com/mods/92908/) and all its required dependencies.
