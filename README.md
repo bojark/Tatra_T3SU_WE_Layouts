@@ -1,8 +1,10 @@
 # Tatra T3SU WE Layouts
 
-Custom Write Everywhere layouts for my Tatra T3SU tram in Cities: Skylines II.
+Custom Write Everywhere layouts both for my Tatra T3SU and MTTA2 trams in Cities: Skylines II.
 
 ![Tatra T3SU front and side displays](https://github.com/bojark/Tatra_T3SU_WE_Layouts/blob/main/20260827174448_1.jpg?raw=true) ![Tatra T3SU Write Everywhere layout](https://github.com/bojark/Tatra_T3SU_WE_Layouts/blob/main/20260827174422_1.jpg?raw=true)
+
+Updated for 3-car and push-pull consists! 
 
 ## Installation
 
