@@ -1,4 +1,4 @@
-# Tatra T3SU WE Layouts
+# Tatra T3SU and MTTA2 WE Layouts
 
 Custom Write Everywhere layouts both for my Tatra T3SU and MTTA2 trams in Cities: Skylines II.
 
