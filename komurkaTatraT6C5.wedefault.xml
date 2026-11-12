@@ -1,0 +1,374 @@
+<WELayout>
+  <children>
+    <self itemName="Vehicle Number Right">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="1.26249981" y="1.31" z="4.354999" />
+        <offsetRotation x="-0" y="90" z="0" />
+        <scale x="0.15" y="0.15" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arraySpacingData />
+        <arrayInstancesData>
+          <defaultValue x="1" y="1" z="1" />
+        </arrayInstancesData>
+      </transform>
+      <textMesh fontName="">
+        <text formulae="&amp;WEVehicleFn;GetSerialNumber">NEW TEXT</text>
+        <MaxWidthMeters>0</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FFC500FF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Vehicle Number Left">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="0.0149998749" y="-0.0124999881" z="-2.51499987" />
+          <offsetRotation x="-0" y="180" z="0" />
+          <scale x="0.15" y="0.15" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="">
+          <text formulae="&amp;WEVehicleFn;GetSerialNumber">NEW TEXT</text>
+          <MaxWidthMeters>0</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFC500FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Vehicle Number Front">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-2.93657923" y="-0.168047428" z="-1.24750113" />
+          <offsetRotation x="7.60001755" y="270" z="0" />
+          <scale x="0.15" y="0.15" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="" rescaleHeightOnTextOverflow="true">
+          <text formulae="&amp;WEVehicleFn;GetSerialNumber">AAAAAAAAAAA</text>
+          <MaxWidthMeters>0.6</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFC500FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Vehicle Number Back">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="11.7036676" y="-0.1749753" z="-1.26" />
+          <offsetRotation x="7.300016" y="90" z="0" />
+          <scale x="0.15" y="0.15" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="" rescaleHeightOnTextOverflow="true">
+          <text formulae="&amp;WEVehicleFn;GetSerialNumber">AAAAAAAAAAA</text>
+          <MaxWidthMeters>0.6</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FFC500FF</color>
+          <emissiveColor>FFFFFFFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>0</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+    <children>
+      <self itemName="Line Number Side">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="3.12250018" y="1.405" z="-0.0124999993" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.15" y="0.15" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="K45WE_PTVehicleModule:TramNumber" rescaleHeightOnTextOverflow="true">
+          <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTransportLineNumber">Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTransportLineNumber</text>
+          <MaxWidthMeters>0.2</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FADC2FFF</color>
+          <emissiveColor>FADC2FFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>2.1622777</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Line Number Side">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-0.745" y="0" z="-0.01" />
+            <offsetRotation x="-0" y="0" z="0" />
+            <scale x="0.15" y="0.15" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arraySpacingData />
+            <arrayInstancesData>
+              <defaultValue x="1" y="1" z="1" />
+            </arrayInstancesData>
+          </transform>
+          <textMesh fontName="K45WE_PTVehicleModule:TramNumber" rescaleHeightOnTextOverflow="true">
+            <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTargetDestinationStatic">TEXTTEXTTEXTTEXTxt</text>
+            <MaxWidthMeters>1.2</MaxWidthMeters>
+          </textMesh>
+          <defaultStyle>
+            <color>FADC2FFF</color>
+            <emissiveColor>FADC2FFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>2.1622777</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+    </children>
+    <children>
+      <self itemName="Line Number Front">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-2.72940063" y="1.45753765" z="-0.7725" />
+          <offsetRotation x="350.575043" y="270" z="0" />
+          <scale x="0.2" y="0.2" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="K45WE_PTVehicleModule:TramNumber" rescaleHeightOnTextOverflow="true">
+          <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTransportLineNumber">333</text>
+          <MaxWidthMeters>0.3</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FADC2FFF</color>
+          <emissiveColor>FADC2FFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>2.1622777</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+      <children>
+        <self itemName="Line Number Front">
+          <transform alignment="Left" arrayAxisOrder="XYZ">
+            <offsetPosition x="-0.6275" y="0.008087021" z="-0.00554716075" />
+            <offsetRotation x="359.849976" y="0" z="0" />
+            <scale x="0.3" y="0.15" z="1" />
+            <mustDraw>1</mustDraw>
+            <instanceCount>-1</instanceCount>
+            <arraySpacingData />
+            <arrayInstancesData>
+              <defaultValue x="1" y="1" z="1" />
+            </arrayInstancesData>
+          </transform>
+          <textMesh fontName="K45WE_PTVehicleModule:TramNumber">
+            <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTargetDestinationStatic">TEXTTEXTTEXTTEXTxtэ</text>
+            <MaxWidthMeters>0.9</MaxWidthMeters>
+          </textMesh>
+          <defaultStyle>
+            <color>FADC2FFF</color>
+            <emissiveColor>FADC2FFF</emissiveColor>
+            <metallic>0</metallic>
+            <smoothness>0</smoothness>
+            <emissiveIntensity>2.1622777</emissiveIntensity>
+            <emissiveExposureWeight>0</emissiveExposureWeight>
+            <coatStrength>0</coatStrength>
+            <colorMask1>FFFFFF</colorMask1>
+            <colorMask2>FFFFFF</colorMask2>
+            <colorMask3>FFFFFF</colorMask3>
+          </defaultStyle>
+        </self>
+      </children>
+    </children>
+  </children>
+  <children>
+    <self itemName="Line Number Back">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-0.5110401" y="2.77409363" z="-7.135286" />
+        <offsetRotation x="350.074982" y="180" z="0" />
+        <scale x="0.2" y="0.2" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arraySpacingData />
+        <arrayInstancesData>
+          <defaultValue x="1" y="1" z="1" />
+        </arrayInstancesData>
+      </transform>
+      <textMesh fontName="K45WE_PTVehicleModule:TramNumber" rescaleHeightOnTextOverflow="true">
+        <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTransportLineNumber">333</text>
+        <MaxWidthMeters>0.3</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FADC2FFF</color>
+        <emissiveColor>FADC2FFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>2.1622777</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Line Number Front">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.6275" y="-0.00179077336" z="-0.00552054774" />
+          <offsetRotation x="0.549949467" y="-0" z="-0" />
+          <scale x="0.3" y="0.15" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="K45WE_PTVehicleModule:TramNumber">
+          <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTargetDestinationStatic">TEXTTEXTTEXTTEXTxtэ</text>
+          <MaxWidthMeters>0.9</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FADC2FFF</color>
+          <emissiveColor>FADC2FFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>2.1622777</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+  <children>
+    <self itemName="Line Number Side 2">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-1.23749971" y="2.71500015" z="-1.26249945" />
+        <offsetRotation x="-0" y="270" z="0" />
+        <scale x="0.15" y="0.15" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arraySpacingData />
+        <arrayInstancesData>
+          <defaultValue x="1" y="1" z="1" />
+        </arrayInstancesData>
+      </transform>
+      <textMesh fontName="K45WE_PTVehicleModule:TramNumber" rescaleHeightOnTextOverflow="true">
+        <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTransportLineNumber">Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTransportLineNumber</text>
+        <MaxWidthMeters>0.2</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FADC2FFF</color>
+        <emissiveColor>FADC2FFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>2.1622777</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+    <children>
+      <self itemName="Line Number Side 2">
+        <transform alignment="Left" arrayAxisOrder="XYZ">
+          <offsetPosition x="-0.745" y="0.01" z="0" />
+          <offsetRotation x="-0" y="0" z="0" />
+          <scale x="0.15" y="0.15" z="1" />
+          <mustDraw>1</mustDraw>
+          <instanceCount>-1</instanceCount>
+          <arraySpacingData />
+          <arrayInstancesData>
+            <defaultValue x="1" y="1" z="1" />
+          </arrayInstancesData>
+        </transform>
+        <textMesh fontName="K45WE_PTVehicleModule:TramNumber" rescaleHeightOnTextOverflow="true">
+          <text formulae="Game.Vehicles.Controller;m_Controller/&amp;BelzontWE.Builtin.WEVehicleFn;GetTargetDestinationStatic">TEXTTEXTTEXTTEXTxt</text>
+          <MaxWidthMeters>1.2</MaxWidthMeters>
+        </textMesh>
+        <defaultStyle>
+          <color>FADC2FFF</color>
+          <emissiveColor>FADC2FFF</emissiveColor>
+          <metallic>0</metallic>
+          <smoothness>0</smoothness>
+          <emissiveIntensity>2.1622777</emissiveIntensity>
+          <emissiveExposureWeight>0</emissiveExposureWeight>
+          <coatStrength>0</coatStrength>
+          <colorMask1>FFFFFF</colorMask1>
+          <colorMask2>FFFFFF</colorMask2>
+          <colorMask3>FFFFFF</colorMask3>
+        </defaultStyle>
+      </self>
+    </children>
+  </children>
+</WELayout>
